@@ -5,7 +5,7 @@
  */
 
  /* 
- Modified by James Qiu
+ Modified by Jane Luke
   */
  body,
  html {
@@ -152,7 +152,7 @@
    min-height: auto;
    text-align: center;
    color: white;
-   background-image: url("../../img/background.png");
+   background-image: url("https://raw.githubusercontent.com/janeluke/animate/main/img/background.png");
    background-position: center;
    -webkit-background-size: cover;
    -moz-background-size: cover;
